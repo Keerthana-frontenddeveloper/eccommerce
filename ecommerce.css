@@ -1,0 +1,320 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-logo {
+    height: 7vh;
+}
+
+#sectionservices {
+    font-family: "roboto";
+}
+
+.servicecard {
+    margin: 15px;
+}
+
+.services-main-head {
+    color: #183b56;
+    font-weight: 800;
+    font-size: 46px;
+
+}
+
+.services-para {
+    color: #616c7c;
+    font-size: 22px;
+
+}
+
+.services-logo {
+
+    height: 20vh;
+    width: 25vh;
+    padding: 10px;
+}
+
+.services-heading {
+    font-size: 24px;
+}
+
+.services-text {
+    font-size: 19px;
+    color: #7b8794;
+    margin: 5px;
+}
+
+#sectionproducts {
+    color: white;
+    padding: 10px;
+    font-family: "roboto";
+    margin: 20px;
+}
+
+.product-main-heading {
+    color: #183b56;
+    font-weight: 700;
+    font-size: 30px;
+
+}
+
+.product-heading {
+    font-weight: 700;
+    font-size: 32px;
+    color: white;
+}
+
+.product-para {
+    color: white;
+}
+
+.headphone-card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    width: 100vw;
+    height: 40vh;
+    padding: 15px;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.laptop-card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    width: 100vw;
+    height: 40vh;
+    padding: 15px;
+    border-radius: 20px;
+    margin: 10px;
+
+}
+
+.product-button {
+    width: 20vh;
+    height: 7vh;
+    border-radius: 20px;
+    border-width: 0px;
+    color: #ff9f00;
+}
+
+a {
+    margin-left: auto;
+    color: #ff9f00;
+    font-weight: 600;
+}
+
+#sectionspecialoffer {
+    background: linear-gradient(to right, #f49541, #dd5d97);
+
+
+}
+
+.offer-image {
+    height: 50vh;
+}
+
+.offers-image {
+    height: 20vh;
+}
+
+.electronics-image {
+    height: 40vh;
+}
+
+.discount-image {
+    height: 20vh;
+}
+
+.offer-heading {
+    color: #ad2167;
+    font-weight: 500;
+    font-family: "Bree Serif";
+    text-align: left;
+}
+
+.offer-para {
+    text-align: left;
+    color: white;
+    font-family: "roboto";
+    font-size: 24px;
+}
+
+span {
+    font-style: italic;
+    font-weight: 600;
+}
+
+.blogs-image {
+    height: 30vh;
+    width: 100%;
+}
+
+.blogs-heading {
+    padding: 10px;
+    font-family: "roboto";
+    color: #183b56;
+    font-weight: 800;
+}
+
+.blogs-bottom {
+    padding: 15px;
+}
+
+.blogs-card {
+
+    font-family: "roboto";
+}
+
+.blogs-title {
+    color: #959ead;
+    font-size: 17px;
+
+}
+
+.headline {
+    color: #183b56;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.blogs-para {
+    color: #959ead;
+    font-size: 23px;
+}
+
+a {
+    color: #ff9f00;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.deals-image {
+    height: 25vh;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+}
+
+#sectiondeals {
+    font-family: "roboto";
+
+}
+
+.deals-title {
+    font-weight: 700;
+    color: #183b56;
+    font-size: 35px;
+}
+
+.deals-heading {
+    font-weight: 800;
+    color: #183b56;
+    font-size: 47px;
+}
+
+.deals-para {
+    font-size: 20px;
+
+}
+
+.tv-image {
+
+    margin: 20px;
+}
+
+
+.deals-card {
+
+    height: 110vh;
+
+
+}
+
+#sectioncontact {
+    background-color: #f5f7fa;
+    height: 45vh;
+    font-family: "roboto";
+    text-align: center;
+}
+
+.contact-head {
+    color: #183b56;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.contact-para {
+    color: #ff9f00;
+    border-radius: 4px;
+    border-style: solid;
+    border-color: #ff9f00;
+    padding: 10px;
+    font-size: 24px;
+    margin-left: 35%;
+    margin-top: 15px;
+    width: 180px;
+
+}
+
+#sectionfooter {
+    background-color: #19232d;
+    height: 180vh;
+    color: #517184;
+    font-family: "roboto";
+
+}
+
+.logo {
+    height: 8vh;
+
+}
+
+.logo-container {
+    margin: 5px;
+    background-color: #202b36;
+    font-size: 24px;
+    color: #517184;
+    border-radius: 40px;
+    width: 60px;
+    height: 60px;
+    padding: 10px;
+
+}
+
+.para {
+    color: #5a7184;
+
+    font-size: 23px;
+    padding: 15px;
+}
+
+.heading {
+    font-size: 27px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.details {
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.creation {
+
+    font-size: 20px;
+    color: #5a7184;
+    font-weight: normal;
+
+}
+
+.hr-line {
+    width: 80vw;
+}
+
+i {
+    font-size: 25px;
+
+    text-align: center;
+
+}
